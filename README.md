@@ -2,7 +2,6 @@
 <html>
 <head>
 <style>
- 
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -21,7 +20,6 @@ table#t01 th {
     background-color: black;
     color: white;
 }
-
 </style>
 </head>
 <body>
