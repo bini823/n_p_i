@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<title></title>
 <head>
 <style>
 table, th, td {
