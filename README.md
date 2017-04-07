@@ -26,7 +26,7 @@ table#t01 th {
 <h3>SEO Report</h3>
 <table id="t01">
   <tr>
-    <th width="10%"><bg color="orange"/>Title</th>
+    <th width="10%">Title</th>
     <th width="20%">Description</th> 
     <th width="70%">Suggestion</th>
   </tr>
