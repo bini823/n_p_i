@@ -1,6 +1,7 @@
 <html>
-<title></title>
 <head>
+</head>
+<body>
 <style>
 table, th, td {
     border: 1px solid black;
@@ -21,8 +22,6 @@ table#t01 th {
     color: white;
 }
 </style>
-</head>
-<body>
 <h1>National Portal of India</h1><hr>
 <h3>SEO Report</h3>
 <table id="t01">
