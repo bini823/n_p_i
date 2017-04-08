@@ -22,7 +22,7 @@ table#t01 th {
 </style>
 </head>
 <body>
-<h1>National Portal of India</h1><hr>
+<h1>National Portal of India</h1>
 <h3>SEO Report</h3>
 <table id="t01">
   <tr>
