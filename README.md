@@ -70,11 +70,11 @@ table#t01 th {
 <td>From 157 distinct anchor links analyzed, none of them appears to be broken.</td>
 <td>If broken link appears, It can hurt your SEO and page rankings. The worst result for the user clicking on a broken link is to be sent to a generic browser 404 page not found.<br><br>
 <b>Fixing broken links with Broken Link Checker:-</b><br>
-1.Edit URL – change the URL if it is misspelled or you find there’s an updated link. The Suggestions option may give you an alternative link.<br>
-2.Unlink – if the link has ceased to be, remove the link.<br>
-3.Not broken – if you think the plugin is wrong and the link is valid, use this option to mark the link as okay.<br>
-4.Dismiss – hide the link; if its status changes it will be reported again.<br>
-5.Recheck – test the link for validity again.</td>
+1.<b>Edit URL –</b> change the URL if it is misspelled or you find there’s an updated link. The Suggestions option may give you an alternative link.<br>
+2.<b>Unlink –</b> if the link has ceased to be, remove the link.<br>
+3.<b>Not broken –</b> if you think the plugin is wrong and the link is valid, use this option to mark the link as okay.<br>
+4.<b>Dismiss –</b> hide the link; if its status changes it will be reported again.<br>
+5.<b>Recheck –</b> test the link for validity again.</td>
 </tr> 
 <tr>
 
@@ -119,9 +119,9 @@ Click on save, and now you have a favicon of your own.</td>
 
 <th>Domain Authority</th>
 
-<td>Domain Authority of your website is 0.</td>
+<td>Domain Authority of your website is <b>0</b>.</td>
 
-<td>It is good to have domain authority more than 20.<br><br>
+<td>It is good to have domain authority more than <b>20</b>.<br><br>
 <b>Steps to increase domain authority:-</b><br>
 1.Earn links from more sites.<br>
 
@@ -138,9 +138,9 @@ Click on save, and now you have a favicon of your own.</td>
 
 <th>Page Authority</th>
 
-<td>Page Authority of your website is 0.</td>
+<td>Page Authority of your website is <b>0</b>.</td>
 
-<td>It is good to have page authority more than 20.<br><br>
+<td>It is good to have page authority more than <b>20</b>.<br><br>
 <b>Steps to increase page authority:-</b><br>
 1.Build links to the page you're optimizing.<br>
 
@@ -157,8 +157,8 @@ Click on save, and now you have a favicon of your own.</td>
 
 <th>HTML Page Size Test</th>
 
-<td>Your HTML size is 81.02 Kb and this is above the average web page size. This leads to a slower page loading time than average.</td>
-<td>Average web page size should be of 33 Kb.</td>
+<td>Your HTML size is <b>81.02 Kb</b> and this is above the average web page size. This leads to a slower page loading time than average.</td>
+<td>Average web page size should be of <b>33 Kb</b>.</td>
 </tr>
 <tr>
 
