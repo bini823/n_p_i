@@ -22,7 +22,7 @@ table#t01 th {
 </style>
 </head>
 <body>
-<h1>National Portal of India</h1>
+<h1>National Portal of India</h1><hr>
 <h3>SEO Report</h3>
 <table id="t01">
   <tr>
@@ -169,7 +169,7 @@ Click on save, and now you have a favicon of your own.</td>
 <td>It is recommended to use html compression <b>Eg:-</b> gzip compression.<br><br>
 There are different methods of setting up gzip compression depending on whether or not you've got an IIS or Apache server-<br>
 
-IIS provides the following compression options:<br>
+<b>IIS</b> provides the following compression options:<br>
 
 1.Static files only<br>
 
@@ -177,7 +177,7 @@ IIS provides the following compression options:<br>
 
 3.Both static files and dynamic application responses<br><br>
 
-For Apache You will need to add the following lines to your .htaccess file:<br>
+For <b>Apache</b> You will need to add the following lines to your .htaccess file:<br>
 
 <IfModule mod_deflate.c>
   # Compress HTML, CSS, JavaScript, Text, XML and fonts<br>
