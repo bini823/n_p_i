@@ -34,9 +34,9 @@ table#t01 th {
 
 <th>Meta Description</th>
 
-<td>The meta description length of your page is 0 characters.</td>
+<td>The meta description length of your page is <b>0</b> characters.</td>
 
-<td>Most search engines will truncate meta descriptions to 160 characters.<br><br>
+<td>Most search engines will truncate meta descriptions to <b>160</b> characters.<br><br>
 <b>Eg:-</b> My India, My Pride section of the National Portal of India provides details related to India, National Flag, National Anthem, etc.<br><b>(131 characters)</b></td>
   </tr>
 <tr>
